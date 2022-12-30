@@ -37,22 +37,27 @@
 
 这么设计的本质，我们也是希望走一条全新的gamefi叙述模式——Free-to-own，Gamefi的未来或许不叫Gamefi，传统的Gamefi过于重视fi，却忽略了游戏的真正核心点——好玩。我们基于此愿景，设计出Planet，做一款持续陪伴用户的游戏。期待玩家能够摆脱对金钱、虚假外在的狂热，在Planet收获游戏真正内心的平和和快乐。
 
-
 ## How - 我们怎么做？
 
-### [Demo](https://www.bilibili.com/video/BV1r84y1B7fJ) <a href="https://www.bilibili.com/video/BV1r84y1B7fJ"><image src="https://github.com/CSWellesSun/Images/blob/main/bilibili.png" height="20px"/></a> 
+### [Demo](https://www.bilibili.com/video/BV1r84y1B7fJ) <a href="https://www.bilibili.com/video/BV1FA411R7xp"><image src="https://github.com/CSWellesSun/Images/blob/main/bilibili.png" height="20px"/></a> 
 
-### 1.0 
-- 完善商城社区板块
-- 玩家可以自己设计基础「地块」
+### 1.0 (2022 Q4)
+- 完善Demo的基础功能，Beta版本上线
+- 持续跟进用户调研以及竞品调研
+- 实现基础的动态交互功能
 
-### 2.0
-- 支持导出成桌面（目前仍基于Wallpaper Engine）
-- 动态装饰物，可以和玩家互动
-- 玩家可以上传自己的NFT，通过AI生成3D版并成为专属于自己的「装饰物」
+### 2.0 (2023 Q1Q2)
+- 支持导入用户的NFT
+- 利用AIGC生成3D装饰物
+- 产品运营测试市场，获取第一波用户
 
-### 3.0
-- ……
+### 3.0 (2023 Q3Q4)
+- 根据市场反馈调整产品功能
+- 种子轮融资
+
+<div align=center>
+  <image src="https://github.com/PlanetWeb3/planet-images/blob/main/0.1.2-alpha/roadmap.png" width="1000px"/>
+</div>
 
 ## Guide - 如何运行Demo？
 
