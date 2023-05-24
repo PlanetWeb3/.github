@@ -79,77 +79,41 @@
 
 ### 运行壁纸
 
-在[Release](https://github.com/PlanetWeb3/Planet/releases/tag/v0.1.2-alpha)中找到最新版下载`Planet_0_1_2_alpha.zip
-`并解压，直接运行`Planet.exe`即可。目前的 Demo 如果需要运行壁纸的话，请在 Wallpaper Engine 里导入该可执行文件，但是 Wallpaper Engine 会导致无法输入文字（甚至无法启动游戏），建议目前直接运行 exe 体验，未来将迁移到第一方的壁纸引擎。
+在[Release](https://github.com/PlanetWeb3/Planet/releases/tag/v0.1.3)中找到最新版下载`Planet_0_1_3.zip
+`并解压，直接运行`Planet.exe`即可。
 
 ### 登陆
 
-在登陆界面输入账号名登陆，目前 v0.1.2-alpha 版本由于一些技术问题只有一个用户，请输入**Planet**。
-
 <div align=center>
-  <image src="https://github.com/PlanetWeb3/planet-images/blob/main/0.1.2-alpha/login.png" width="300px"/>
+  <image src="https://github.com/PlanetWeb3/planet-images/blob/main/0.1.3/login.png" width="300px"/>
 </div>
 
-### 装饰品展示
+### 游戏操作主界面
 
-登陆结束之后在屏幕的最下方轮盘处看到当前拥有的装饰品，点击可以拉进并调整角度，也可以点击左右按钮来旋转轮盘。之后移开鼠标轮盘会暂时消失，当触碰到下方的时候会暂时出现。
+进入游戏可以看到游戏操作主界面
 
 <div align=center>
-  <image src="https://github.com/PlanetWeb3/planet-images/blob/main/0.1.2-alpha/scroll.png" width="300px"/>
+  <image src="https://github.com/PlanetWeb3/planet-images/blob/main/0.1.3/construct.png" width="300px"/>
 </div>
 
-### 建造
-
-点击星球可以拉进，再次点击星球进行编辑。左侧可以选择拖动查看、增加和减少三种功能，右侧滚动条选择需要添加的物体。
+### 任务系统
 
 <div align=center>
-  <image src="https://github.com/PlanetWeb3/planet-images/blob/main/0.1.2-alpha/construct.png" width="300px"/>
-</div>
-
-### 获取地块与装饰品
-
-目前点击白洞花费 1$PLT 即可获得 5 个随机 NFT。
-
-<div align=center>
-  <image src="https://github.com/PlanetWeb3/planet-images/blob/main/0.1.2-alpha/whormhole.png" width="300px"/>
-</div>
-
-### 背包
-
-左上方第一个按钮是背包，可以查看当前拥有的 NFT，并且可以选择出售。
-
-<div align=center>
-  <image src="https://github.com/PlanetWeb3/planet-images/blob/main/0.1.2-alpha/bag.png" width="300px"/>
-</div>
-
-### 商店
-
-左上角第二个按钮是商店，可以购买 NFT，但是由于目前只有一个用户，因此商店中暂时没有上架商品，用户自己上架的东西会显示 Redeem 赎回按钮，点击会取回自己上架在商店中的 NFT。
-
-<div align=center>
-  <image src="https://github.com/PlanetWeb3/planet-images/blob/main/0.1.2-alpha/store.png" width="300px"/>
-</div>
-
-### 设置
-
-左上角第三个按钮是设置 BGM 音量和音效音量（如删除地块声）。
-
-<div align=center>
-  <image src="https://github.com/PlanetWeb3/planet-images/blob/main/0.1.2-alpha/setting.png" width="300px"/>
+  <image src="https://github.com/PlanetWeb3/planet-images/blob/main/0.1.3/rule.jpeg" width="300px"/>
 </div>
 
 ## Who - 我们是谁？
 
-| **Name**        | **Description**                     | **School** |
-| --------------- | ----------------------------------- | ---------- |
-| WellesSun       | 合约开发者，Web3 新人               | ZJUer      |
-| ToddLjx         | ~~练习时长两年半的 Unity 开发~~     | ZJUer      |
-| RyanFcr         | 产品经理&商务拓展，NFTGo 产品实习生 | ZJUer      |
-| Livyee          | 游戏美术工作者                      | CAAer      |
-| RitzzzZ         | 运营                                | ZJUer      |
-| Stretchww       | 媒体运营                            | ZJUer      |
-| SunZ            | 产品运营                            | ZJUer      |
-| wtlllll（暂离） | v0.1.0 游戏本体开发，游戏开发者     | ZJUer      |
+| **Name**         | **Description**                        | **School** |
+| ---------------- | -------------------------------------- | ---------- |
+| WellesSun        | 合约开发者，Web3 新人                  | ZJUer      |
+| ToddLjx          | ~~练习时长两年半的 Unity 开发~~        | ZJUer      |
+| RyanFcr          | 产品经理&商务拓展，ex NFTGo 产品实习生 | ZJUer      |
+| Livyee           | 游戏美术工作者                         | CAAer      |
+| RitzzzZ （暂离） | 运营                                   | ZJUer      |
+| Stretchww        | 媒体运营                               | ZJUer      |
+| SunZ             | 产品运营                               | ZJUer      |
+| wtlllll（暂离）  | v0.1.0 游戏本体开发，游戏开发者        | ZJUer      |
 
 ## PS
 
